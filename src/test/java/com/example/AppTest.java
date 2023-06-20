@@ -1,11 +1,9 @@
 package com.example;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertThrowsExactly;
 
 import org.junit.Test;
-import org.junit.jupiter.api.BeforeEach;
 
 /**
  * Unit test for simple App.
